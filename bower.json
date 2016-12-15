@@ -1,0 +1,27 @@
+{
+  "name": "emdb-slices",
+  "version": "1.0.7",
+  "authors": [
+    "Anonymous <anonymous@example.com>"
+  ],
+  "description": "An element to display XYZ central slices for EMDB entries.",
+  "keywords": [
+    "web-component",
+    "polymer",
+    "seed"
+  ],
+  "main": "emdb-slices.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/esanzgar/emdb-slices/",
+  "ignore": [
+    "/.*",
+    "/test/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0",
+    "iron-icon": "PolymerElements/iron-icon#^1.0.12"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0"
+  }
+}
